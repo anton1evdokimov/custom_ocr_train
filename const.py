@@ -1,0 +1,1 @@
+IMG_HEIGHT = 25
